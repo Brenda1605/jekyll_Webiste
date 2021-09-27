@@ -54,12 +54,6 @@ GEM
     rouge (3.26.1)
     safe_yaml (1.0.5)
     sass (3.7.4)
-    thread_safe (0.3.6)
-    tzinfo (1.2.9)
-      thread_safe (~> 0.1)
-    tzinfo-data (1.2021.2)
-      tzinfo (>= 1.0.0)
-    wdm (0.1.1)
 
 PLATFORMS
   x86_64-linux
